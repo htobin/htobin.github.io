@@ -4,7 +4,6 @@ type: project
 image: /images/zombiePic.gif
 title: Zombie Game
 permalink: projects/zombie
-# All dates must be YYYY-MM-DD format!
 date: 2017-03-15
 labels:
   - Java
