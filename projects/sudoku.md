@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/sudokuPic.jpg
+title: Sudoku Solver
+permalink: projects/sudokuSolver
 # All dates must be YYYY-MM-DD format!
 date: 2017-10-15
 labels:
