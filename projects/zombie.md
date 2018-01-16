@@ -1,11 +1,11 @@
----
+7---
 layout: project
 type: project
 image: /images/zombiePic.gif
 title: Zombie Game
 permalink: projects/zombie
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-03-15
 labels:
   - Java
 summary: A small zombie game completed in ics 111 as a midterm project
