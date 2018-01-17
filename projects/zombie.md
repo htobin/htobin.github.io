@@ -5,7 +5,7 @@ image: images/zombiePic.gif
 title: zombie game
 permalink: projects/zombie
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-05-01
 labels:
   - Java
 summary: A turn based game I collaborated on in ics 111
