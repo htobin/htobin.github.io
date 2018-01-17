@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/zombiePic.gif
+image: images/zombiePic.png
 title: zombie game
 permalink: projects/zombie
 # All dates must be YYYY-MM-DD format!
