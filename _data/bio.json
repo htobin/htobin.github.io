@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "htobin",
+        "url": "http://github.com/htobin"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "hokutobin",
+        "url": "http://linkedin.com/in/hokutobin"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "coming soon",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "coming soon",
         "url": "http://instagram.com/changeme"
       }
     ]
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "Wireless Networking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Sustainability",
       "keywords": [
       ]
     }
@@ -59,36 +59,28 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "novice",
       "keywords": [
-        "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "git/github"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.89",
       "courses": [
       ]
     }
