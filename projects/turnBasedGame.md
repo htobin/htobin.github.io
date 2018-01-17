@@ -7,7 +7,7 @@ permalink: projects/turnBasedGame
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-09
 labels:
-  -Java
+  Java
 summary: A small mini turn based game I collaborated on for our final project in ics 111.
 ---
 
