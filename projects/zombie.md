@@ -1,17 +1,18 @@
-7---
+---
 layout: project
 type: project
-image: /images/zombiePic.gif
-title: Zombie Game
+image: images/zombiePic.gif
+title: zombie game
 permalink: projects/zombie
-date: 2017-03-15
+# All dates must be YYYY-MM-DD format!
+date: 2014-04-12
 labels:
   - Java
-summary: A small zombie game completed in ics 111 as a midterm project
+summary: A turn based game I collaborated on in ics 111
 ---
 
-<img class="ui medium right floated rounded image" src="../images/zombiePic.gif">
+<img class="ui image" src="{{ site.baseurl }}/images/zombiePic.gif">
+A short game that involves the player to basically meets with a dragon and uses the commands such as "attack" and "heal" in order to defeat the dragon
 
-This small mini game involves zombies tracking a player, in which you can collect boxes to collect barbwire. Then using the barbwire slow the zombies slow down. The game ends when a zombie attacks a player.
- 
-Source:https://github.com/htobin/ManiniProjects2
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
