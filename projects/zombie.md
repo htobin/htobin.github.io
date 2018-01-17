@@ -15,5 +15,5 @@ summary: A 2D zombie survival game
 
 A zombie survival game in which you collect crates of barb wire to slow down zombies that spawn after a certain period of time. You get points by collecting crates. 
 
-Source: <a href="https://github.com/htobin/ManiniProjects2"></a>
+<a href="https://github.com/htobin/ManiniProjects2">Check Out My Early Project</a>
 
