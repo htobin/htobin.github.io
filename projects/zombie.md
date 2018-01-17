@@ -11,7 +11,8 @@ labels:
 summary: A 2D zombie survival game
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/zombiePic.gif">
+<img class="ui image" src="htobin.github.io/images/zombiePic.gif">
+
 A zombie survival game in which you collect crates of barb wire to slow down zombies that spawn after a certain period of time. You get points by collecting crates. 
 
 Source: <a href="https://github.com/htobin/ManiniProjects2"></a>
