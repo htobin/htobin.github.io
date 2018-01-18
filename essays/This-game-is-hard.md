@@ -5,9 +5,9 @@ title: This game is hard
 # All dates must be YYYY-MM-DD format!
 date: 2018-17-01
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Interests
+  - IOT
+  - Goals
 ---
 
 <img class="ui medium left floated image" src="../images/iot.jpg">
