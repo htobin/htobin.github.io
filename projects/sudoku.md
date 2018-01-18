@@ -15,7 +15,7 @@ summary: Sudoku Solver in my second semester of Computer Science
   <img class="ui image" src="../images/sudokuPic.jpg">
 </div>
 
-This is a sample of some of the cirriculum we had last semester. We had to create a sudoku puzzle solver recursively. It was pretty simple since the creation of the puzzle was already done. As well as the checks in the program were done, all that was needed was to correctly solve it. It was also assumed that all puzzles were solvable.
+This is a sample of some of the cirriculum we had last semester in ics 211. The point of the assignment was to create a recursive sudoku puzzle solver. This was under the assumption that all sudoku puzzles were solvable. We were given premade puzzles that were confirmed to be solvable. We were also given the checks for determining whether the row, columb, or 3 x 3 box had the number that was being determined. 
 
 <a href="https://github.com/htobin/ManiniProjects2">Check out my early projects!</a>
 
