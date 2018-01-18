@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: I have no idea, what I'm doing
 # All dates must be YYYY-MM-DD format!
-date: 2018-17-01
+date: 2018-01-17
 labels:
   - Software Engineering
   - Learning
