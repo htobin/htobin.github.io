@@ -22,6 +22,7 @@ Create a function that converts a number from Farenheit to Celsius.
 It was something similar to this
 function changeTemp(tempType,Temp) // function that takes in the paramaters of type being taken in, and the degree of tempurature
 let finalTemp = 0; // initialize final temp
+
 &emsp if(tempType=="f"){
 
 }
