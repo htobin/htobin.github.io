@@ -80,7 +80,7 @@ for(let i = 0; i<=num;i++){
 </br>
 console.log(100);
 </br></br>
-Do you remember that double equals issue I had earlier? It came full force for this WOD. Then to top it off. For final statement I put:
+Do you remember that double equals issue I had earlier? It came full force for this WOD. I even forgot to initialize i in the for loop. Then to top it off. For final statement I put:
 </br>
 else{
 </br>
