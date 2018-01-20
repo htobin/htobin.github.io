@@ -20,10 +20,25 @@ For example when we did the problem
 ```
 Create a function that converts a number from Farenheit to Celsius.
 It was something similar to this
-function changeTemp(tempType,Temp) // function that takes in the paramaters of type being taken in, and the degree of tempurature
+</br>
+function changeTemp(tempType,Temp){ // function that takes in the paramaters of type being taken in, and the degree of tempurature
+</br>
 let finalTemp = 0; // initialize final temp
-
-&emsp if(tempType=="f"){
+</br>
+&emsp;if(tempType=="f"){
+</br>
+&emsp; &emsp; finalTemp= (Temp)(9/5)-32}
+</br>
+&emsp;if(tempType=="c"){
+</br>
+&emsp;&emsp; finalTemp= (Temp)(5/9)-32}
+</br>
+&emsp;else{
+&emsp;&emsp; return "incorrect input"}
+</br>
+return finalTemp;}
+</br>
+console.log("f",212); // should come out to 100
 
 }
 
