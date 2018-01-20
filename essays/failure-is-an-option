@@ -17,6 +17,7 @@ labels:
 This past thursday was our first official WOD for my ics 314 class. I was fairly confident that I would do well. I did well in the practice
 WODs, but I guess I should have done them a few more times. Because every WOD I practiced on I would always get some sort of syntax error.
 For example when we did the problem
+</br>
 ```
 Create a function that converts a number from Farenheit to Celsius.
 It was something similar to this
