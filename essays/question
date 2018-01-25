@@ -39,9 +39,9 @@ Is there a library for PHP that makes this simpler?
 &emsp; This was met with much criticism within the thread. In fact it was closed and then locked because not only was it not constructive but it was so general that it wasn't worth it. But I will say that I respect the people who actually took the time out of their day to answer this person's question. If you look at the top response, the responder goes into details on how to do it. They even give their best input as they possibly can and hope for the best.
 </p>
 &emsp;This was a question that was asked. It was simple and not too technically challenging. But It was well put. A programmer had developed a program that took in two times that were one second apart. We see that the programmer has not only put their code. But their results, as well as java details such as the version as well as where they are getting his information for the timezone as well as the date.
-</br>
+</br></br></br>
 If I run the following program, which parses two strings that are a times that are one second apart. 
-</br>
+</br></br></br>
 public static void main(String[] args) throws ParseException {
 </br>
     &emsp;SimpleDateFormat sf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
