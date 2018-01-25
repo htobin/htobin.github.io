@@ -10,7 +10,7 @@ labels:
   - Goals
 ---
 
-<img class="ui medium left floated image" src="../images/iot.jpg">
+<img class="ui centered tiny image" src="../images/iot.jpg">
 
 <p>
  &emsp;
