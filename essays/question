@@ -3,8 +3,38 @@ layout: essay
 type: essay
 title: Question!
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2018-01-24
 labels:
   - Software Engineering
   - Learning
 ---
+<img class="ui medium centered rounded image" src="../images/kissaten.jpg">
+<p>
+&emsp;"There's no such thing as a stupid question" is something people like to say, until they work in either retail or food service.
+For example "can I get a caesar wrap without the tortilla?", to which you reply "one caesar salad coming right up". Now most customers leave
+it at that. But some then insist "No, I want a caesar wrap without the tortilla". Let's just keep in mind that caesar wraps have the same 
+amount of ingredients as a salad, all except the wrap which costs extra. This was my life as a manager, sometimes you just need to "give
+um what they came for". Even if it's not in their best interest.
+</p>
+<p>
+&emsp; After breifly going over what a "stupid question" is thanks to [this neat little guide](http://www.catb.org/esr/faqs/smart-questions.html)
+I found out that having that it seems most "stupid questions" are just poorly articulated ones. It doesn't make them any less annoying to read/answer, but it definitely doesn't fall within the realm of stupid. Stupid quesitons are "Why doesn't my laptop power on?", "How come I can't open this link?", "Why is my screen so small?". You'll notice that not only are these questions simply answered via a google search, but also they are so general there are way to many possibilities to consider. I'll post an actual question right here:
+</p>
+</br>
+How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
+</br>
+AOL
+</br>
+G-Mail
+</br>
+Hotmail
+</br>
+Yahoo
+</br>
+<p>
+It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
+Is there a library for PHP that makes this simpler? 
+</p>
+</br>
+<p>
+&emsp; This was met with much criticism within the thread. In fact it was closed and then locked because not only was it not constructive but it was so general that it wasn't worth it. But I will say that I respect the people who actually took the time out of their day to answer this person's question. If you look at the top response, the responder goes into details on how to do it. They even give their best input as they possibly can and hope for the best.
