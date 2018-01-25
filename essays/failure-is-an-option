@@ -52,7 +52,7 @@ console.log("f",212); // should come out to 100
 </br>
 </br>
 
-As soon as we got this I began to work on it and for two days straight I kept getting one sort of error or another. Errors such as "function expected" or other syntax errors. My biggest issue was with double equals, and that would later come back to haunt me.
+&emsp;As soon as we got this I began to work on it and for two days straight I kept getting one sort of error or another. Errors such as "function expected" or other syntax errors. My biggest issue was with double equals, and that would later come back to haunt me.
 
 </br>
 
@@ -120,7 +120,7 @@ console.log(100);
 
 </br></br>
 
-Do you remember that double equals issue I had earlier? It came full force for this WOD. I even forgot to initialize i in the for loop. Then to top it off. For final statement I put:
+&emsp;Do you remember that double equals issue I had earlier? It came full force for this WOD. I even forgot to initialize i in the for loop. Then to top it off. For final statement I put:
 
 </br>
 
