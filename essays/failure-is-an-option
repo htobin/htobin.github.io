@@ -13,6 +13,7 @@ labels:
 
 
 ```
+
 function changeTemp(tempType,Temp){ // function that takes in the paramaters of type being taken in, and the degree of tempurature
 let finalTemp = 0; // initialize final temp
 if(tempType=="f"){
@@ -24,4 +25,5 @@ return "incorrect input"}
 return finalTemp;}
 console.log("f",212); // should come out to 100
 }
+
 ```
