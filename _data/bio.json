@@ -5,7 +5,6 @@
     "picture": "https://htobin.github.io/images/gitHubPic2.jpg",
     "email": "htobin@hawaii.edu",
     "phone": "808-781-8485",
-    "website": "Coming soon",
     "summary": "I am a student purusing a B.S. in Informational and Computer Sciences at the University of Hawaii at Manoa. Tentative graduation date in Fall 2020",
    "location" : {
       "address": "",
@@ -24,25 +23,13 @@
         "network": "linkedin",
         "username": "hokutobin",
         "url": "http://linkedin.com/in/hokutobin"
-      },
-      {
-        "network": "twitter",
-        "username": "coming soon",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "coming soon",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Internet of Things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -78,7 +65,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2017-09-01",
+      "startDate": "2017-01-09",
       "endDate": "Present",
       "gpa": "3.89",
       "courses": [
@@ -87,70 +74,31 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Best Buy",
+      "position": "Smart Home Sales Consultant",
+      "website": "https://www.bestbuy.com/",
+      "startDate": "2016-12-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assisting customers in choosing the right product for their smart home",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Learning about all of the latest and greatest products at Best Buy",
+        "Serving customers with a smile, and giving the best that Best Buy can offe"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Kissaten",
+      "position": "Floor Manager",
+      "website": "n/a",
+      "startDate": "2014-10-01",
+      "endDate": "2017-01-10",
+      "summary": "Oversee a small restaurant with a small group of Baristas",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Making drinks and food within a timely manner",
+        "Troubleshoot problems among staff and establishment"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
