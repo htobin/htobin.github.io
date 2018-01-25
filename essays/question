@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -9,7 +8,7 @@ labels:
   - Software Engineering
   - Learning
 ---
-<img class="ui medium centered rounded image" src="../images/question.jpg">
+<img class="ui medium centered rounded image" src="../images/question.png">
 <p>
 &emsp;"There's no such thing as a stupid question" is something people like to say, until they work in either retail or food service.
 For example "can I get a caesar wrap without the tortilla?", to which you reply "one caesar salad coming right up". Now most customers leave
