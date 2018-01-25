@@ -5,8 +5,8 @@ title: Question!
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-24
 labels:
-  - Software Engineering
-  - Learning
+  - Stack Overflow
+  - Problem solving
 ---
 <img class="ui medium centered rounded image" src="../images/question.png">
 <p>
@@ -37,7 +37,7 @@ Is there a library for PHP that makes this simpler?
 </br>
 <p>
 &emsp; This was met with much criticism within the thread. In fact it was closed and then locked because not only was it not constructive but it was so general that it wasn't worth it. But I will say that I respect the people who actually took the time out of their day to answer this person's question. If you look at the top response, the responder goes into details on how to do it. They even give their best input as they possibly can and hope for the best.
-</p>
+</br></p>
 &emsp;This was a question that was asked. It was simple and not too technically challenging. But It was well put. A programmer had developed a program that took in two times that were one second apart. We see that the programmer has not only put their code. But their results, as well as java details such as the version as well as where they are getting his information for the timezone as well as the date.
 </br></br></br>
 If I run the following program, which parses two strings that are a times that are one second apart. 
@@ -97,7 +97,7 @@ lastRule=null]
 </br></br></br>
 
 Locale(Locale.getDefault()): zh_CN
-</br>
+</br></br>
 <p>
 &emsp;
 We then see how they get their answer, and it turns out there's an error in the library of times that they are getting the times from. This isn't an obvious answer. A simple google search may have not given this answer they were getting as to why this didn't work. The programmer simply thought that their was a bug in their code, and was trying to help get out the bug in their code that they typed. When the actual bug was from a library issue with the timezone, where the clocks got set back. Therefore there were two instances of a certain time, and the library simply referenced the first one. What a cool bug!
