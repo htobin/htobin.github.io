@@ -18,7 +18,8 @@ um what they came for". Even if it's not in their best interest.
 
 After breifly going over what a "stupid question" is thanks to <a href="http://www.catb.org/esr/faqs/smart-questions.html"> (this neat little guide)</a>I found out that having that it seems most "stupid questions" are just poorly articulated ones. It doesn't make them any less annoying to read/answer, but it definitely doesn't fall within the realm of stupid. Stupid quesitons are "Why doesn't my laptop power on?", "How come I can't open this link?", "Why is my screen so small?". You'll notice that not only are these questions simply answered via a google search, but also they are so general there are way to many possibilities to consider. I'll post an actual question right here:
 ```
-How can one send an email to 100,000 users on a weekly basis in PHP? This includes mail to subscribers using the following providers:
+How can one send an email to 100,000 users on a weekly basis in PHP? This 
+includes mail to subscribers using the following providers:
 
 AOL
 
