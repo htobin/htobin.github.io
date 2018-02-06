@@ -29,8 +29,9 @@ Hotmail
 Yahoo
 
 
-It is important that all e-mail actually be delivered, to the extent that it is possible. Obviously, just sending the mail conventionally would do nothing but create problems.
-Is there a library for PHP that makes this simpler? 
+It is important that all e-mail actually be delivered, to the extent that it is
+possible. Obviously, just sending the mail conventionally would do nothing but 
+create problems. Is there a library for PHP that makes this simpler? 
 ```
 This was met with much criticism within the thread. In fact it was closed and then locked because not only was it not constructive but it was so general that it wasn't worth it. But I will say that I respect the people who actually took the time out of their day to answer this person's question. If you look at the top response, the responder goes into details on how to do it. They even give their best input as they possibly can and hope for the best.
 
@@ -61,7 +62,8 @@ The output is:
 
 353
 
-Why is ld4-ld3 not 1 (as I would expect from the one-second difference in the times), but 353?
+Why is ld4-ld3 not 1 (as I would expect from the one-second difference in 
+the times), but 353?
 
 If I change the dates to times 1 second later:
 
@@ -77,7 +79,8 @@ java version "1.6.0_22"
 
 Java(TM) SE Runtime Environment (build 1.6.0_22-b04)
 
-Dynamic Code Evolution Client VM (build 0.2-b02-internal, 19.0-b04-internal, mixed mode)
+Dynamic Code Evolution Client VM (build 0.2-b02-internal, 19.0-b04-internal,
+mixed mode)
 
 
 Timezone(`TimeZone.getDefault()`):
