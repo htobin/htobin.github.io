@@ -20,7 +20,11 @@ labels:
 &emsp; Turns out that creating portion of an app is very similar to making a solo, except I've only been coding for 3 semesters, the sheet music doesn't make sense, and I don't have my lips on my computer. But it helps when you have really awesome bandmates (computer science colleagues) to help you make this song amazing, or in this case, the app. When it came to creating the app we had to first figure out what the problem this app was based on and how the app solves it, once that was done we went straight to the drawing board (literally got a white board and marker) and began to make mockups for the pages that would be used in the app. Then we looked at what components would be used in the app pages and how they would connect to each other. One of these components was a skill searching feature. This would be available in the navigation bar above as well as in the sign up page for people who are looking for a job. This involved having to interact with a collection of skills that the new and current users will have access to. Not only that but the jobs will be populating as the user registers a keystroke, which is difficult within itself. The framework that will be used to implement this is Meteor/React. This framework can be seen genre of the music that will be playing. The "solo" of this song is a search bar feature that populates job suggestions as each key is pressed. Therefore this feature has quite the tempo to keep up with, by that the app will have to render the job suggestions while accessing the library all fairly quickly. The "tone" of the app will be the same all around, and this will be just a small detail in the grand scheme of it all. 
  
  <img class="ui huge centered image" src="../images/finalEssay1.PNG">
+ 
+ <h3>Figure 1: As soon as user attempts to type in a string, the list populates</h3>
+ 
  <img class="ui huge centered image" src="../images/finalEssay2.PNG">
+ <h3> Figure 2: With a single key stroke the skills collection finds all relevant letters </h3>
 
 <p>
 &emsp; This little feature of the app is an intricate "solo". It attracts the user for just a small portion of the app, and all of the other solos such as rating a user, making a testimonial, or even hiring a user. It's all a part of this grand composition that hopefully by the end of this project is a masterpiece.  
