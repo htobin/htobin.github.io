@@ -78,9 +78,16 @@ public E add(String key, E value) {
 _.filter(array, elements => {
 return something});
 ```
-	Functional programming within itself can be a little finicky at times, but overall JS fiddle allowed me to find a style that would allow me to get comfortable with basic javascript functions. But it was when I was introduced to IntelliJ that I would learn that even if the syntax is right, if you're using eslint then it's wrong. 
+
+<p>
+&emsp;Functional programming within itself can be a little finicky at times, but overall JS fiddle allowed me to find a style that would allow me to get comfortable with basic javascript functions. But it was when I was introduced to IntelliJ that I would learn that even if the syntax is right, if you're using eslint then it's wrong.
+</p>
 <img class="ui medium centered rounded image" src="../images/error.jpg">
-	This is our first week using IntelliJ, and when it was intially introduced I was told it would be like Eclipse. It's very similar with the hot keys, it's even good at telling you what errors you have. One thing I noticed about IntelliJ was that it doesn't open multiple projects at the same time in the same window, which is one aspect of Eclipse that I liked. But one cool think that I thought was pretty neat was the wrapping feature that can be activated in IntelliJ, as in coding screen real estate is highly valuble. So overall I think IntelliJ is a great tool when it comes to finding errors in your code, and it takes a bit getting used to, but the learning curve isn't too bad. But then there's eslint, and holy MOLY! This little library drives me nuts. Eslint is one of the files that we use in order to find errors within our code. The problem is that it picks up a lot of errors. For example, here is my final code I did for a practice with IntelliJ and functional programming
+
+
+<p>
+&emsp;This is our first week using IntelliJ, and when it was intially introduced I was told it would be like Eclipse. It's very similar with the hot keys, it's even good at telling you what errors you have. One thing I noticed about IntelliJ was that it doesn't open multiple projects at the same time in the same window, which is one aspect of Eclipse that I liked. But one cool think that I thought was pretty neat was the wrapping feature that can be activated in IntelliJ, as in coding screen real estate is highly valuble. So overall I think IntelliJ is a great tool when it comes to finding errors in your code, and it takes a bit getting used to, but the learning curve isn't too bad. But then there's eslint, and holy MOLY! This little library drives me nuts. Eslint is one of the files that we use in order to find errors within our code. The problem is that it picks up a lot of errors. For example, here is my final code I did for a practice with IntelliJ and functional programming.
+</p>
 ```
 const input = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
 
