@@ -47,7 +47,7 @@
       "name": "Languages and Frameworks",
       "level": "novice",
       "keywords": [
-        "Java",
+        "Java", "Javascript"
         
       ]
     },
@@ -55,7 +55,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "git/github"
+        "Git/Github" , "Meteor", "React" 
       ]
     }
   ],
