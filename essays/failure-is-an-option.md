@@ -10,9 +10,10 @@ labels:
   - Goals
 ---
 
-This past thursday was our first official WOD for my ics 314 class. I was fairly confident that I would do well. I did well in the practice
 
-WODs, but I guess I should have done them a few more times. Because every WOD I practiced on I would always get some sort of syntax error.
+<p>
+&emsp;This past thursday was our first official WOD for my ics 314 class. I was fairly confident that I would do well. I did well in the practice WODs, but I guess I should have done them a few more times. Because every WOD I practiced on I would always get some sort of syntax error.
+</p>
 
 For example when we did the problem.
 
@@ -36,9 +37,10 @@ return finalTemp;}
 console.log("f",212); // should come out to 100
 }
 ```
-As soon as we got this I began to work on it and for two days straight I kept getting one sort of error or another. Errors such as "function expected" or other syntax errors. My biggest issue was with double equals, and that would later come back to haunt me.
 
-We get to the day of the WOD and it was that morning at the library where I finally got my code to work. I have no idea how but it gave me a false sense of confidence. We got into the WOD and it was an easy problem. I could have done this code in 10 minutes tops, but for some reason, I felt my chest tightening up, my hands forgot how to type, and as soon as he said go, I forgot how to code.
+<p>
+&emsp;As soon as we got this I began to work on it and for two days straight I kept getting one sort of error or another. Errors such as "function expected" or other syntax errors. My biggest issue was with double equals, and that would later come back to haunt me. We get to the day of the WOD and it was that morning at the library where I finally got my code to work. I have no idea how but it gave me a false sense of confidence. We got into the WOD and it was an easy problem. I could have done this code in 10 minutes tops, but for some reason, I felt my chest tightening up, my hands forgot how to type, and as soon as he said go, I forgot how to code.
+</p>
 
 The code was something like this
 
@@ -65,5 +67,8 @@ else{
    console.log(num);} which only called 100 for every iteration of i
    }
 ```
-I psyched myself out, and ended up not finishing because you can't turn in code that doesn't run. Because as much as I wanted it to be done, you can't turn in something that doesn't work and call it finished. It was embarassing. I didn't finish what could be the easiest WOD of the semester. In fact it still hurts a little while writing this essay. But I'll be sure that I get the next one, and hopefully I don't choke up like I did. I'm not sure how easy it is to maintain an A if you fail the first two WODs. Overall though I like javascript it's a little easier than java and allows you to be a bit more general. I'm excited for what I will learn from this class, and hope that I can calm down during the WODs. This will be challenging, but at the same time I'm stoked to even get this far, as I honestly didn't think I would have done so well in ANY of the computer science classes. Yet here I am, typing about how coding made me look stupid. Though it's fair to say coding will definitely make a fool out of me again.
+
+<p>
+&emsp;I psyched myself out, and ended up not finishing because you can't turn in code that doesn't run. Because as much as I wanted it to be done, you can't turn in something that doesn't work and call it finished. It was embarassing. I didn't finish what could be the easiest WOD of the semester. In fact it still hurts a little while writing this essay. But I'll be sure that I get the next one, and hopefully I don't choke up like I did. I'm not sure how easy it is to maintain an A if you fail the first two WODs. Overall though I like javascript it's a little easier than java and allows you to be a bit more general. I'm excited for what I will learn from this class, and hope that I can calm down during the WODs. This will be challenging, but at the same time I'm stoked to even get this far, as I honestly didn't think I would have done so well in ANY of the computer science classes. Yet here I am, typing about how coding made me look stupid. Though it's fair to say coding will definitely make a fool out of me again.
+</p>
 
