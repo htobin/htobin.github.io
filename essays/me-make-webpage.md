@@ -17,7 +17,7 @@ labels:
 
 <p>
 &emsp;Fast forward to these past two weeks and although it was difficult I didn't feel like a caveman learning how to make fire for the first time.. For example back in Hilo we used notepad++ to help develop our website. This time I was using a full blown IDE with IntelliJ.IntelliJ was less obtrusive when it came to having errors in the code, or more importantly on how the code should be styled. A cool feature that I picked up was learning how to have my code format itself by using the "ctrl+alt+ lower case L" hotkey, which made it easy to make sure all my divs were indented correctly, which after these past two WODS in particular were quite a lot. When also comparing my experience in Hilo, I didn't use a framework such as Semantic UI which was INCREDIBLY HELPFUL. If you've never coded before and are interested in getting experience with it, I think semantic UI makes it pretty easy to develop your own website. For example we did some mockups of web pages that we had seen, and the page I chose was from my friend Kamaka Pili. Who not only has his own line of malo, but also has Hawaiian culture inspired jewlrey and even his own show on KHON 2 called 
-<img class="ui medium floated right image" src="https://cdn.shopify.com/s/files/1/1824/1089/products/FullSizeRender_copy_1296x.jpg?v=1509338826">
+<img class="ui medium centered image" src="https://cdn.shopify.com/s/files/1/1824/1089/products/FullSizeRender_copy_1296x.jpg?v=1509338826">
   <a href="http://www.alohaauthentic.org/home.html">Aloha Authentic</a>. 
   Check it out his main website <a href="https://www.kamakapili.com/">Here</a>. 
  </p>
