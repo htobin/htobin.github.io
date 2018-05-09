@@ -67,9 +67,13 @@ public E add(String key, E value) {
 		return null;
 	}
 ```
-This was an add function that I used for an ordered linked list data structure. I commented nearly every line for two reasons: 1) I didn't want to lose my train of thought, and 2) I wanted to make sure that if I ran into an issue, that I could send it to either a TA or the professor teaching the class and have them help me. This commenting also helped my fellow peers assist me with my development of algorithms. Another way to type "clean code" was tab spacing. I was pretty spoiled with the IDE eclipse, which had a function that cleaned up all of my tabs, and even when it came to making new lines as well. But I also think it's fair to say that my code that I've typed is not as efficient as it could be. There's a high reverence for those who can type as few lines of code as possible, and maybe with another couple of years I will also be able to find ways to tighten up my typing.
+<p>
+&emsp; This was an add function that I used for an ordered linked list data structure. I commented nearly every line for two reasons: 1) I didn't want to lose my train of thought, and 2) I wanted to make sure that if I ran into an issue, that I could send it to either a TA or the professor teaching the class and have them help me. This commenting also helped my fellow peers assist me with my development of algorithms. Another way to type "clean code" was tab spacing. I was pretty spoiled with the IDE eclipse, which had a function that cleaned up all of my tabs, and even when it came to making new lines as well. But I also think it's fair to say that my code that I've typed is not as efficient as it could be. There's a high reverence for those who can type as few lines of code as possible, and maybe with another couple of years I will also be able to find ways to tighten up my typing.
+</p>
 
-With my introduction to javascript, we didn't use a local IDE in order to type up code. We used a cloud based IDE with JS fiddle. The conclusion of our use of JS Fiddle allowed me to learn javascript while not really worrying too much about certain habits. Such as when using an arrow functions like filter:
+<p>
+&emsp; With my introduction to javascript, we didn't use a local IDE in order to type up code. We used a cloud based IDE with JS fiddle. The conclusion of our use of JS Fiddle allowed me to learn javascript while not really worrying too much about certain habits. Such as when using an arrow functions like filter:
+</p>
 ```
 _.filter(array, elements => {
 return something});
@@ -106,6 +110,12 @@ function squared(array){
 }
 console.log(squared(input));
 ```
-	I didn't realize a couple of things before the use of eslint: "let" is only usable on variables that are changing( like a variable in a for loop, or an array that is increasing in elements or size), that you must have all functions on the same line when using arrow notiation, infix symbols for expressions needs to have a space around them, and that you can't just tab willy nilly, even if it looks cluttered. It was interesting though, when I tried a practice WOD I ended NOT getting an error when I had typed "fiter" vs "filter" and kept receiving an error. It's worth noting that IntelliJ has error notifications in the form of red lines on the code, and a red circle with a white exclamation point in the top right corner, and for some reason it still allowed me to open up the html file of the project with an error. Which was a little frustrating considering I found the error in the developer tools in Google Chrome. But overall the responsibility falls on me to make sure that my code is correct before doing anything, because when doing any whiteboard coding there's no such thing as intellisense. 
 
-	This experience was an enriching one, and although eslint may be slightly annoying. I'm actually learning good coding habits that will carry over long after this class is finished. And to be honest I need all the help I can get.
+<p>
+&emsp;I didn't realize a couple of things before the use of eslint: "let" is only usable on variables that are changing( like a variable in a for loop, or an array that is increasing in elements or size), that you must have all functions on the same line when using arrow notiation, infix symbols for expressions needs to have a space around them, and that you can't just tab willy nilly, even if it looks cluttered. It was interesting though, when I tried a practice WOD I ended NOT getting an error when I had typed "fiter" vs "filter" and kept receiving an error. It's worth noting that IntelliJ has error notifications in the form of red lines on the code, and a red circle with a white exclamation point in the top right corner, and for some reason it still allowed me to open up the html file of the project with an error. Which was a little frustrating considering I found the error in the developer tools in Google Chrome. But overall the responsibility falls on me to make sure that my code is correct before doing anything, because when doing any whiteboard coding there's no such thing as intellisense. 
+</p>
+
+
+<p>
+&emsp;This experience was an enriching one, and although eslint may be slightly annoying. I'm actually learning good coding habits that will carry over long after this class is finished. And to be honest I need all the help I can get.
+</p>
