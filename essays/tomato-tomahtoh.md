@@ -10,7 +10,9 @@ labels:
 ---
 <img class="ui medium centered rounded image" src="../images/tomato.png">
 
-	After about two semesters of coding. I've already begun to pick up on how to write code properly. By writing code properly, I mean commenting on most of the lines. For example:
+<p>
+&emsp; After about two semesters of coding. I've already begun to pick up on how to write code properly. By writing code properly, I mean commenting on most of the lines. For example:
+</p>	
 
 ```
 public E add(String key, E value) {
