@@ -73,33 +73,6 @@
   ],
   "work": [
     {
-      "company": "Apple",
-      "position": "Sales Specialist",
-      "website": "https://www.apple.com/",
-      "startDate": "2019-09-09",
-      "endDate": "Present",
-      "summary": "Assisting customers in learning about the different devices and services that Apple has to help them follow their passions and better their lives ",
-      "highlights": [
-        "Assisting customers in finding the best solution to enrich their life with Apple products.",
-        "Configuring new Apple devices such as cellular phones and smart watches.",
-        "Assisting customers to become familiar with features of new operating systems and devices."
-        "Developing genuine relationships with customers and gauging their rapport with random surveys."
-      ]
-    },
-    {
-      "company": "University of Hawaii at Manoa",
-      "position": "Infomation Techonology Services- Overnight Help Desk",
-      "website": "https://www.hawaii.edu/its/",
-      "startDate": "2019-06-01",
-      "endDate": "2019-09-03",
-      "summary": "Assisting customers in finding solutions to make their house a 'smart home' ",
-      "highlights": [
-        "Maintained and monitored UH Systems such as Olelo Hawaii TV and UH network infrastructure, and report any issues that arise.",
-        "Assisted users with navigating and understanding University of Hawaii applications such as Gmail @UH, STAR (class sign-up), and Laulima (classroom correspondence where teachers can post assignments, forums, and other class materials).",
-        "Assisted users with troubleshooting technical issues with their computers or mobile devices either over the phone, via email, or using Bomgar remote desktop assistance."
-      ]
-    },
-    {
       "company": "Best Buy",
       "position": "Smart Home Sales Consultant",
       "website": "https://www.bestbuy.com/",
