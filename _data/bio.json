@@ -73,6 +73,20 @@
   ],
   "work": [
     {
+      "company": "Apple",
+      "position": "Sales Specialist",
+      "website": "https://www.apple.com/",
+      "startDate": "2019-09-09",
+      "endDate": "present",
+      "summary": "Assisting customers learning about Apple products and Services that can help better their lives and pursue their passions ",
+      "highlights": [
+        "Assisting customers in finding the best solution to enrich their life with Apple products.",
+        "Configuring new Apple devices such as cellular phones and smart watches.",
+        "Assisting customers to become familiar with features of new operating systems and devices.",
+        "Developing genuine relationships with customers and gauging their rapport with random surveys.",
+      ]
+    },
+    {
       "company": "Best Buy",
       "position": "Smart Home Sales Consultant",
       "website": "https://www.bestbuy.com/",
@@ -92,7 +106,7 @@
       "website": " ",
       "startDate": "2014-10-01",
       "endDate": "2017-01-10",
-      "summary": "Oversee a small restaurant with a small group of Baristas",
+      "summary": "Oversee a small restaurant with a small group of baristas and cooks",
       "highlights": [
         "Supervised a small team of baristas (5- 9) and cooks (2-4)",
         "Trained new cooks and baristas procedures for restaurant kitchen, and coffee bar",
