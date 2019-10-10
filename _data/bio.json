@@ -44,10 +44,10 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "novice",
       "keywords": [
-        "Java", "Javascript"
+        "Java", " Javascript" , " C", " C++", " LaTex",
         
       ]
     },
@@ -55,7 +55,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Git/Github" , "Meteor", "React" 
+        "Git/Github" , " Meteor", " React" ," Windows" ," iOS", " Linux (Ubuntu)"
       ]
     }
   ],
